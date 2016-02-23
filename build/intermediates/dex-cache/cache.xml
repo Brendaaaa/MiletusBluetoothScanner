@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brendaramires/bluetoothScanner/BLE scan/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/pre-dexed/debug/additionnal-f40ef37ad36f3a75e92fa40d3b51494e7d5b43fe.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/bluetoothScanner/BLE scan/app/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/pre-dexed/debug/activation-144f8655d0a4b47d23bf5f28a7744818d01a602e.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/pre-dexed/debug/classes-27c3d9a99c955f3b97e03f2f1c08e9e4deb8d209.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/pre-dexed/debug/classes-53389ea8d2b732c51b7700b7d955a81a0eda038b.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/pre-dexed/debug/classes-e1af60dbdab35e8b9158f7d68bae61854413b563.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/bluetoothScanner/BLE scan/app/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/pre-dexed/debug/mail-9efb802848403dfa63fca4330ada57773296b033.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-39e653e1f2962751d7059d5c618185e2d8b41076.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/pre-dexed/debug/classes-ba3990e92942f376ce139917cac8b041ab6f2cf9.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-2dae23760b759c60ccc31e1b11bac2fecafd2b7a.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-e8a7853a6fc929a99a1bde76ed56214e6663db66.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/pre-dexed/debug/additionnal-1c9a155d030d4473e6c503b10b5817acfe24129b.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/pre-dexed/debug/activation-87172a476240ed9cf541b8b6cbe40b071359b3b2.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/pre-dexed/debug/classes-031bc51784ade32a07269163536ba5e53f6d3c7a.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/pre-dexed/debug/additionnal-bec706afb527d5cb1eb3bef8f1c538b8581fb7ea.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/pre-dexed/debug/classes-d64b7b41d7f4326662e8fa692de1d23777260c36.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/pre-dexed/debug/mail-e6767636f3605419a233c9024af976f2becf2542.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-8b7b9e2c01e7b75274f274872a53d7564534c5f6.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-f7bba4d82bcdffaa428b7a01fe31f371b1291f0b.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/brendaramires/Desktop/bluetoothScannerIot/BLE scan/BluetoothScanner/build/intermediates/pre-dexed/debug/activation-ab5781b49b23ae21fb7c58191b029882ccfd5551.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/brendaramires/bluetoothScanner/BLE scan/app/build/intermediates/pre-dexed/debug/classes-54d85985ae624f83b667985035de0ab4ceea7961.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/brendaramires/Desktop/MiletusBluetoothScanner/BluetoothScanner/build/intermediates/pre-dexed/debug/mail-c524d38ad3719d0ee82945d36d53d3c6d6ecc91b.jar" />
+    </item>
+    <item
+        jar="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/brendaramires/Downloads/BLE scan/app/build/intermediates/pre-dexed/debug/classes-711f346025aa3e63dfdceea288f97abee4cc3e68.jar" />
+    </item>
+
+</items>
