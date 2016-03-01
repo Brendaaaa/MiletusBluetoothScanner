@@ -12,7 +12,7 @@ public class BluetoothApplication extends Application {
     private final static int max = 40;
     BluetoothHandler b;
     int counter;
-    public static String region = "1";
+    public static String region = "6";
 
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
@@ -46,8 +46,9 @@ public class BluetoothApplication extends Application {
 
     public boolean isPostTime(){
         counter++;
+        System.out.println("More " + (max - counter) + " to post");
         counter = counter % max;
-        if (counter < max){
+        if (counter > 0){
             return false;
         }
         return true;

@@ -89,11 +89,13 @@ public class BluetoothHandler {
 					BluetoothApplication.setRegion(20); //indicates bluetooth it's not working
 				}
 			} else if (BluetoothAdapter.ACTION_DISCOVERY_STARTED.equals(action)) {
+				System.out.println("BLUETOOTH HANDLER: started");
 				bluetoothScanning = true;
 				if (data == null){
 					data = new ArrayList<String>();
 				}
 			} else if (BluetoothAdapter.ACTION_DISCOVERY_FINISHED.equals(action)) {
+				System.out.println("BLUETOOTH HANDLER: finished");
 				bluetoothScanning = false;
 				writeData();
 			} else if (BluetoothDevice.ACTION_FOUND.equals(action)) {

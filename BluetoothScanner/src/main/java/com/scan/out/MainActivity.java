@@ -5,6 +5,7 @@ import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.content.Intent;
 import android.os.Bundle;
+import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
@@ -20,6 +21,9 @@ public class MainActivity extends Activity {
 
 		BluetoothApplication app = (BluetoothApplication)getApplication();
 		app.setBluetoothHandler(bluetoothHandler);
+
+		TextView region = (TextView)findViewById(R.id.region);
+		region.setText(Integer.toString(app.region()));
 
 		//Setting alarm to initiates a service
 		AlarmManager alarm = (AlarmManager)getSystemService(ALARM_SERVICE);

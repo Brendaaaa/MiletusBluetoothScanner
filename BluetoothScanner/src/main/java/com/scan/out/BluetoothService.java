@@ -31,7 +31,7 @@ import java.util.List;
  */
 public class BluetoothService extends Service {
 
-    private final static String API_KEY = "9BM1R94LFHXUY1ZK";
+    private final static String API_KEY = "6SZ54V6R18OAM95O";
     private final static String SERVER_ADDRESS = "http://10.35.99.86:3000/upload";
     public final static String DEVICES_MEASURES = "devicesMeasures.csv";
     private BluetoothApplication bluetoothApplication;
@@ -126,9 +126,12 @@ public class BluetoothService extends Service {
                 if(response.equals("OK")) {
                     File file = new File(getApplication().getApplicationContext().getFilesDir() + "/" + DEVICES_MEASURES);
 
+                    System.out.println("BLUETOOTH SERVICE: post ok");
                     if (file.delete()) {
                         System.out.println("BLUETOOTH SERVICE: file deleted");
                     }
+                } else {
+                    System.out.println("BLUETOOTH SERVICE: post later");
                 }
                 //Destroy service
                 stopSelf();
@@ -143,6 +146,7 @@ public class BluetoothService extends Service {
     // Thingspeak only accepts csv with date
     private String getPostDataFormatted(){
         String content = getLocalCSVContent();
+        System.out.println("csv length = " + content.length());
         String csv ="created_at,mac,rssi,region,name\n";
         String date = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss Z").format(Calendar.getInstance().getTime());
         //Heart beat - region number: usually a value between 1 and 6. Other values indicates problem
@@ -181,6 +185,8 @@ public class BluetoothService extends Service {
             System.out.println("BLUETOOTH SERVICE: exception - file not found:" + e);
         } catch (IOException e) {
             System.out.println("BLUETOOTH SERVICE: exception - cant read file:" + e);
+        } catch (Exception e){
+            System.out.println("BLUETOOTH SERVICE: exception: " + e);
         }
 
         return null;
